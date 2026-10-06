@@ -1,0 +1,4 @@
+Data structures are very important in computer science.
+Hash tables provide fast searching and efficient data storage.
+Plagiarism detection can use hashing to compare documents.
+String processing is an important part of this project.

@@ -1,0 +1,3 @@
+Data structures are very important in computer science.
+Hash tables provide fast searching and efficient data storage.
+This document contains some additional information.
